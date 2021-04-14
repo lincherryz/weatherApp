@@ -49,7 +49,7 @@ Status of Project: The Main executable file is functional, but only displays a L
 2. Connect all the modules to the main executable, and build up the GUI and UI design. Will also begin writing up the test cases for verifying the functionality of the weather app. 
 
 
-__Nick Next Steps:__
+__Nick's Next Steps:__
 1. Fix the website up and start to work with other team members so that we can get the code running.
 
 
