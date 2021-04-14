@@ -5,7 +5,7 @@ that end users can be aware of weather conditions for the day or week, and can p
 __General Info:__
 
 * ![weather icon](https://www.iconfinder.com/data/icons/luchesa-vol-9/128/Weather-512.png)
-* /* Optional to add missing things that we could of used in our project */
+
 
 __Technologies Used:__
 
