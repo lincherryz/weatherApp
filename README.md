@@ -1,10 +1,10 @@
 # Weather Predictor App
-_Working with Courtney, Linete, Robby, and Nick to build a weather app so 
-that end users can be aware of weather conditions for the day or week, and can properly prepare for the day with tips provided by the app. We are building a weather app to prevent weather confusion throughout the day. _
+Working with Courtney, Linete, Robby, and Nick to build a weather app so 
+that end users can be aware of weather conditions for the day or week, and can properly prepare for the day with tips provided by the app. We are building a weather app to prevent weather confusion throughout the day. 
 
 __General Info:__
 
-* ![weather icon](https://www.iconfinder.com/data/icons/luchesa-vol-9/128/Weather-512.png)
+ ![weather icon](https://www.iconfinder.com/data/icons/luchesa-vol-9/128/Weather-512.png)
 
 
 __Technologies Used:__
@@ -28,7 +28,9 @@ __Features:__
 	* Completed by Robby. This is the way that the weatherapp is getting information to run the rest of the application. This is located in the WeatherAPI.py file
 3. Weatherapp site
 	* The base layout is completed,  but it is still a blank slate because we have not implemented the code in yet
-Status of Project: We currently have a running program that is not connected to the back end where all the information enters. Next step is to get all of the files talking with one another so that we can start compiling a running demo of weather information.	
+Status of Project: We currently have a running program that is not connected to the back end where all the information enters. Next step is to get all of the files talking with one another so that we can start compiling a running demo of weather information.
+
+__Sprint 2 Retrospective:__
 	
 __Robby's Next Steps:__
 
@@ -55,15 +57,15 @@ __Nick's Next Steps:__
 
 __Sprint 3 Retrospective:__
 
-__Courtney's Next Steps:__
+__Courtney's Accomplishments:__
 
 Status of Project: We have linked all the '.kv' files to the main executable, and are able to click buttons and navigate the app.
 Artifact: Within our source files you will find files ending with the extension '.kv' and 'main.py'. These files contain the GUI design and actions for any clickable items on the page.
 		  These files are used when loading the window or any time a button is pressed.
-
-1. Will connect the Weather API to the GUI, to display the weather
-2. Create unit tests to verify the functionality of the app
-3. Create a downloadable installation for app
+* Next Steps:
+	1. Will connect the Weather API to the GUI, to display the weather
+	2. Create unit tests to verify the functionality of the app
+	3. Create a downloadable installation for app
 
 __Robby's Accomplishments:__
 
@@ -83,11 +85,12 @@ Accomplishments for sprint 3: Succesfully completed a working GUI application wh
 	2. Replace the buttons with a navigation bar to give users easier access between screens. 
 	3. Finish the creation of the notification pop up window that will display information to users.
 	
-__Kristopher's Next Steps:__
+__Kristopher's Accomplishments:__
 
 Accomplishments for sprint 3: created a base UML diagram for the application, also help create the standard documentation for the project.
+
 * Next Steps:
-1. Fully the complete the UML using the code provided by team in the master branch
-2. Try to create a working application on my device so that we can showcase our product for sprint 3
-3. Get with team so that i can figure out who i can help once  my portion is finished 
+	1. Fully the complete the UML using the code provided by team in the master branch
+	2. Try to create a working application on my device so that we can showcase our product for sprint 3
+	3. Get with team so that i can figure out who i can help once  my portion is finished 
 
